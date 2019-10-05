@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\bin\Debug\netcoreapp2.2\CadastroProdutos.deps.json
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\bin\Debug\netcoreapp2.2\CadastroProdutos.runtimeconfig.json
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\bin\Debug\netcoreapp2.2\CadastroProdutos.runtimeconfig.dev.json
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\bin\Debug\netcoreapp2.2\CadastroProdutos.dll
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\bin\Debug\netcoreapp2.2\CadastroProdutos.pdb
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.RazorAssemblyInfo.cache
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.RazorAssemblyInfo.cs
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.dll
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.pdb
+C:\Users\User\Documents\Cursos\CadastroProdutos\CadastroProdutos\obj\Debug\netcoreapp2.2\CadastroProdutos.csprojAssemblyReference.cache
